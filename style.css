@@ -1,0 +1,35 @@
+#pikachu{
+
+text-align: center;color: rgb(31, 108, 11); 
+}
+
+#charmander{text-align: center;color: rgb(16, 254, 159); }
+
+body{background:linear-gradient(rgb(228, 122, 23), rgb(32, 157, 215),rgb(24, 158, 24));}
+.ryu{height: 5px; width: 90px; background-color: rgb(11, 60, 27);
+
+
+
+
+}
+
+#mestre{
+    position: absolute;
+    top: 3px;
+    left: 10px;
+    
+}
+
+.pok{
+font-size: medium;
+color: rgb(118, 21, 60);
+}
+
+.click{
+    font-size: medium;
+    color: rgb(118, 21, 60);
+    }
+
+    #bot{
+        background-color: yellow;
+    }
